@@ -1,0 +1,40 @@
+# 컴파일된 파일
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# 실행 파일
+*.exe
+*.out
+a.out
+
+# 라이브러리
+*.a
+*.lib
+
+# IDE 파일
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 빌드 디렉토리
+build/
+Debug/
+Release/
+
+# 로그 파일
+*.log
+
+# OS 관련
+.DS_Store
+Thumbs.db
+
+# 임시 파일
+*.tmp
+*.bak
