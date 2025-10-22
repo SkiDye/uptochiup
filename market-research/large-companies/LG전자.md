@@ -1,4 +1,4 @@
-# LG전자 (LG Electronics)
+# LG전자 (LG Electronics) ✅ 2025 채용중
 
 ## 📋 기업 개요
 
